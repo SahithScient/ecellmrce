@@ -3,7 +3,9 @@
 This is Sahith from Hyderabad, Telangana, India.
 --
 This is my final project for CS50x 2022 course. </br>
-(request to view the website online from the GitHub page link below for fullfledged functionality)
+(request to view the website online from the GitHub page link for fullfledged functionality: https://sahithscient.github.io/ecellmrce/ )
+
+Video Demo URL : https://youtu.be/gvkdi_zTA10
 
 The files present in my project directory are:
                                       
